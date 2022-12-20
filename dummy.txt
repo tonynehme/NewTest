@@ -1,2 +1,2 @@
 this is dummy content
-new release
+new release 2
